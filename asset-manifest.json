@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-omar/static/css/main.5798a9ed.css",
+    "main.js": "/portfolio-omar/static/js/main.dc0f8b5c.js",
+    "static/js/488.1d38b519.chunk.js": "/portfolio-omar/static/js/488.1d38b519.chunk.js",
+    "index.html": "/portfolio-omar/index.html",
+    "main.5798a9ed.css.map": "/portfolio-omar/static/css/main.5798a9ed.css.map",
+    "main.dc0f8b5c.js.map": "/portfolio-omar/static/js/main.dc0f8b5c.js.map",
+    "488.1d38b519.chunk.js.map": "/portfolio-omar/static/js/488.1d38b519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5798a9ed.css",
+    "static/js/main.dc0f8b5c.js"
+  ]
+}
